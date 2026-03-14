@@ -8039,7 +8039,7 @@
 			)
 		)
 	)
-	(global_label "ILLUM DRIVER"
+	(global_label "R DRIVER"
 		(shape input)
 		(at 83.82 182.88 180)
 		(fields_autoplaced yes)
@@ -8051,7 +8051,7 @@
 		)
 		(uuid "1403d352-319a-47f0-b564-8996a5130bff")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 67.7719 182.88 0)
+			(at 71.9448 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8501,7 +8501,7 @@
 			)
 		)
 	)
-	(global_label "R DRIVER"
+	(global_label "ILLUM DRIVER"
 		(shape input)
 		(at 267.97 60.96 0)
 		(fields_autoplaced yes)
@@ -8513,7 +8513,7 @@
 		)
 		(uuid "4d481b11-585b-42b5-bb3d-4e551af2c56b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 279.8452 60.96 0)
+			(at 284.0181 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8545,7 +8545,7 @@
 			)
 		)
 	)
-	(global_label "ILLUM"
+	(global_label "TURN R"
 		(shape input)
 		(at 115.57 182.88 0)
 		(fields_autoplaced yes)
@@ -8557,7 +8557,7 @@
 		)
 		(uuid "51b80753-f888-4b2c-8ecf-0ace4e0e7e79")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 123.9981 182.88 0)
+			(at 125.6914 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8589,7 +8589,7 @@
 			)
 		)
 	)
-	(global_label "TEMP"
+	(global_label "FUEL"
 		(shape input)
 		(at 139.7 102.87 0)
 		(fields_autoplaced yes)
@@ -8601,7 +8601,7 @@
 		)
 		(uuid "5e5ea608-b33a-401c-a43e-53bd129e1565")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 147.5232 102.87 0)
+			(at 147.2814 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8699,7 +8699,7 @@
 			)
 		)
 	)
-	(global_label "D3"
+	(global_label "D1"
 		(shape input)
 		(at 267.97 99.06 0)
 		(fields_autoplaced yes)
@@ -8897,7 +8897,7 @@
 			)
 		)
 	)
-	(global_label "R DRIVER"
+	(global_label "ILLUM DRIVER"
 		(shape input)
 		(at 20.32 151.13 180)
 		(fields_autoplaced yes)
@@ -8909,7 +8909,7 @@
 		)
 		(uuid "804e7b2d-d315-4292-af5e-f2a0b0358eb9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 8.4448 151.13 0)
+			(at 4.2719 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8985,7 +8985,7 @@
 			)
 		)
 	)
-	(global_label "TURN R"
+	(global_label "ILLUM"
 		(shape input)
 		(at 50.8 151.13 0)
 		(effects
@@ -9072,7 +9072,7 @@
 			)
 		)
 	)
-	(global_label "ILLUM DRIVER"
+	(global_label "R DRIVER"
 		(shape input)
 		(at 267.97 73.66 0)
 		(fields_autoplaced yes)
@@ -9084,7 +9084,7 @@
 		)
 		(uuid "99a54280-2ce3-4c31-907c-67b7644873c3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 284.0181 73.66 0)
+			(at 279.8452 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9182,7 +9182,7 @@
 			)
 		)
 	)
-	(global_label "D1"
+	(global_label "D3"
 		(shape input)
 		(at 267.97 93.98 0)
 		(fields_autoplaced yes)
@@ -9270,7 +9270,7 @@
 			)
 		)
 	)
-	(global_label "FUEL"
+	(global_label "TEMP"
 		(shape input)
 		(at 139.7 100.33 0)
 		(fields_autoplaced yes)
@@ -9282,7 +9282,7 @@
 		)
 		(uuid "b9601b98-12e9-47cc-afa2-602fe24a6519")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 147.2814 100.33 0)
+			(at 147.5232 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12074,7 +12074,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 95.25 184.785 0)
 			(effects
 				(font
@@ -12755,7 +12755,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 153.67 153.035 0)
 			(effects
 				(font
@@ -12900,7 +12900,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 40.64 184.785 0)
 			(effects
 				(font
@@ -15348,7 +15348,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 31.75 153.035 0)
 			(effects
 				(font
@@ -16381,7 +16381,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 86.36 153.035 0)
 			(effects
 				(font
@@ -16568,7 +16568,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 153.67 183.515 0)
 			(effects
 				(font
